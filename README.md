@@ -5,6 +5,9 @@
 
 A sleek and responsive Weather Web Application built with **HTML, CSS, and JavaScript**. This app fetches real-time weather data from the **OpenWeatherMap API** to provide accurate information about any city worldwide.
 
+## 🔗 Live Demo
+Check out the live version here: [https://irumipramisha.github.io/weather_webapplication/](https://irumipramisha.github.io/weather_webapplication/)
+
 ## Features
 - **Real-time Data:** Get up-to-date temperature, humidity, and wind speed.
 - **Dynamic Search:** Search for weather details by entering any city name.
